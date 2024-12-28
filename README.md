@@ -16,4 +16,12 @@ In this task : <br>
 
  ## Brief about myself
  Myself Abhay Das, currently a 4th year Undergrad at UIET Chandigarh. 
+
+ step 1 :
+ ![Screenshot 2024-12-28 225103](https://github.com/user-attachments/assets/18ea89c3-2c33-4474-adc5-d1aef5951a88)
+
+ step 2 :
+ ![Screenshot 2024-12-28 225124](https://github.com/user-attachments/assets/800cfef5-5674-4d76-8e2c-5fac9cc273e4)
+
+
  
